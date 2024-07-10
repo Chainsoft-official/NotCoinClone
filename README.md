@@ -1,6 +1,6 @@
-# NotCoinBot
+# NotCoinClone
 
-NotCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
+NotCoinClone is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
 
 ## Features
 - **Interactive Game**: Users can collect points by clicking on a coin in a fun and engaging game.
@@ -11,8 +11,7 @@ NotCoin Bot is a powerful and interactive AirDrop cryptocurrency bot that allows
 - **Daily Activities (Earn)**: Users can complete daily activities, such as completing levels and joining the Telegram community, to earn more points.
 - **Mining (Mine)**: Users can tap to increase their coin count. Once the requirements for Level 1 are met, the user will level up.
 - **Metrics (Matrics)**: Provides detailed statistics including total share balance, total touches, total players, daily users, and online players.
-- **User Management**: Search users by (UserID|Name|Username) and change all user item values.
-- **Task Management**: Create/Delete missions and for each mission, Create/Delete Tasks (There are two types of tasks: JoinTelegram and VisitWebsite).
+- **Task Management**: Create/Delete missions and for each mission, Create/Delete Tasks (There are two types of tasks: JoinChat and VisitWebsite).
 - **Statistics**: View detailed statistics about user engagement and activity performance.
 
 ## Bot Previews
