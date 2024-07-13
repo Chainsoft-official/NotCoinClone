@@ -29,14 +29,11 @@ NotCoinClone is a powerful and interactive AirDrop cryptocurrency bot that allow
 - **Backend**: JavaScript
 
 ## Buying
-Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_profile_share&ltsid=6fabea08-49fe-4ea4-a08c-5a8f9114d159)
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
 
 <p float="left">
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/70b1cc8a-616e-4d51-8b7d-4db20d33c94e" width="200" />
+  <img src="https://github.com/user-attachments/assets/2cb746d8-4e4f-487f-a899-ef8512a70d46" width="200" />
 </p>
-
-## Contributing
-Contributions are welcome! Please create a pull request with your proposed changes and ensure they adhere to the coding standards of the project.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -44,4 +41,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 - **Telegram** : [Telegram](https://web.telegram.org/a/)
 - **WhatsApp** : +923066303835
-- **Instagram** : [Instagram](https://www.instagram.com/chainsoftofficial?utm_source=qr&igsh=MWJ5aG9kY2VtZ3VmNw==)
+- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
