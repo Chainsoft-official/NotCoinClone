@@ -1,6 +1,6 @@
 # NotCoinClone
 
-NotCoinClone is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
+NotCoinClone is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, and JavaScript includes a comprehensive admin panel for managing users, activities, and other functionalities.
 
 ## Features
 - **Interactive Game**: Users can collect points by clicking on a coin in a fun and engaging game.
