@@ -29,7 +29,6 @@ NotCoinClone is a powerful and interactive AirDrop cryptocurrency bot that allow
 - **Backend**: JavaScript
 
 ## Buying
-## Buying
 Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
 
 <p float="left">
